@@ -20,7 +20,6 @@
 	class SMS extends Object {
 
 		const XML_URL_SEND = 'xml-api.smsmanager.cz/Send';
-		//const XML_URL_SEND = 'stroll-obuv_cz.localhost/cron.php?f=test';
 		const HTTP_URL_SEND = 'http-api.smsmanager.cz/Send';
 		const HTTP_URL_REQUESTLIST = 'http-api.smsmanager.cz/RequestList';
 		const HTTP_URL_REQUESTSTATUS = 'http-api.smsmanager.cz/RequestStatus';
